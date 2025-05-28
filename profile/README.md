@@ -1,9 +1,15 @@
 ## Hi there 👋
 
+<strong>supr</strong>  (pronounced as, <em>super</em>) is an AI-first telecom 📱 bringing unlimited plans without contract, travel eSims, bills payments, and more to the Mexican market; all of it powered by a powerful in-app AI assitant. 🚀
+
+Our main stack is in Flutter + Supabase.
+
+We are happy you are in our Github. Feel free to reach out for any topic. 📩
+
 <!--
 
 **Here are some ideas to get you started:**
-
+✉️
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
