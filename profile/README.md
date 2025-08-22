@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<strong>supr</strong>  (pronounced as, <em>super</em>) is an AI-first telecom 📱 bringing unlimited plans without contract, travel eSims, bills payments, and more to the Mexican market; all of it powered by a powerful in-app AI assitant. 🚀
+<strong>supr</strong>  (pronounced as, <em>super</em>) is an AI-first telecom 📱 bringing unlimited plans without contract, travel eSims, bills payments, and more to the Mexican market; all of it powered by a powerful AI-first mobile app. 🚀
 
 Our main stack is in Flutter + Supabase.
 
