@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<strong>supr</strong>  (pronounced as, <em>super</em>) is an AI-first telecom 📱 changing the way telecom is made in Mexico 🚀
+<strong>supr</strong>  (pronounced as, <em>super</em>) is an AI-first telecom 📱 changing the way communication is made in Mexico 🚀
 
 Our main stack is in Flutter + Supabase.
 
